@@ -66,3 +66,7 @@ h1{
 .player-card{
     text-align: center;
 }
+.dark-mode {
+    background-color: black;
+    color: white;
+}
